@@ -1,0 +1,38 @@
+{
+  "name": "Moaspot",
+  "short_name": "Moaspot",
+  "description": "Moaspot application",
+  "start_url": "https://www.moaspot.freesite.online/index.php", 
+  "display": "fullscreen",
+  "scope": "https://www.moaspot.freesite.online/",
+  "background_color": "#222831",
+  "theme_color": "#31363F",
+  "icons": [
+    {
+      "src": "/others/pwa-icon-sm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/others/pwa-icon-lg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/others/screenshot.jpg",
+      "sizes": "1878x964",
+      "form_factor": "wide",
+      "type": "image/png"
+    },
+    {
+      "src": "/others/screenshot.jpg",
+      "sizes": "1878x964",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait", 
+  "lang": "fr",
+  "prefer_related_applications": false
+}
